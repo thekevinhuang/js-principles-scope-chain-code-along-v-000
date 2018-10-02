@@ -13,3 +13,11 @@ function setBestCustomer() {
 function overWriteBestCustomer() {
   
 }
+
+function reassignLeastFavorite() {
+  
+}
+
+function attemptTwoFavoriteCustomers() {
+  
+}
