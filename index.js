@@ -25,5 +25,7 @@ function reassignLeastFavorite() {
 }
 
 function attemptTwoFavoriteCustomers() {
+  let favoriteCustomer = "one"
 
+  let favoriteCustomer = "two"
 }
